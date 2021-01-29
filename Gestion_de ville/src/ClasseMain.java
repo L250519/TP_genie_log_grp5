@@ -6,7 +6,7 @@ public class ClasseMain {
 System.out.println(""""""""PRESENTATION DES PAYS AU CAMEROUN""""""""");
 System.out println(--------------------------------------------------);
 Système.out.println("""""""”""""""""""""""""""""'''''''''''%%%%%%"""");
-		pitale yaoundé = new Capitale();
+		final Capitale yaoundé = new Capitale();
 Ville ville = new Ville();
 Ville ville1 = new Ville ("Ngoundéré", "Cameroun", 19000000);
 Ville ville2 = new Ville("Ndjamena", "Tchad", 25000000);
